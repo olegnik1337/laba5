@@ -1,0 +1,13 @@
+        h1{text-align: center; font-size: 22px;}
+		h2{text-align: center;}
+		#n4{background-color: red;}
+        #golovna{font-style: italic;}
+		
+	    .neparni{
+            background-color:gray;
+            color:white;}
+        
+	    .parni{
+            background-color:white;
+            color:black;}
+		.kursor{cursor: pointer;}	

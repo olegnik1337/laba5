@@ -1,0 +1,21 @@
+     h1{text-align: center; font-size: 22px;}
+	 #golovna{font-style: italic;}
+	 h2{text-align: center;}
+	 #stovpec{
+        text-align:center;
+        font-weight:bold;}
+	.neparni{
+        background-color:gray;
+        color:white;}
+	.parni{
+        background-color:white;
+        color:black;}
+	.last{text-align:right;}
+	.green{
+	    background-color: green;
+		color:orange;}
+th{border: black; border-width: 2px; border-style: solid; padding: 10px; text-align: center;}
+td{border: black; border-width: 2px; border-style: solid; padding: 3px; text-align: center;}
+	*{
+		font-family: 'Caveat', cursive;
+	}

@@ -1,0 +1,30 @@
+#verh{text-align: center; font-size: 22px;}
+        #golovna{font-style: italic;}
+        h3{text-align: center;}
+        .button{
+            font-weight: 700;
+			display: inline-block;
+            color: skyblue;
+            padding: 7px;
+            border-radius: 100px;
+            background: blue;
+            transition: 0.2s;}
+        .button:hover {
+            background: magenta;            
+            color: black;}
+        .button:active {
+            background: yellow;
+			color: white;}
+        }
+        article{font-size: 120%;}
+        h2{font-size: 34.56px;}
+        .dozmistu{font-weight: 600;}
+        #odin{background-color: orange;}
+        #dva{background-color: red;}
+        #tri{background-color: blue;}
+        #choturu{background-color: violet;}
+        #pyat{background-color: gray;}
+        #up{text-transform: uppercase;}
+* {
+    font-family: 'Amatic SC', cursive;
+}

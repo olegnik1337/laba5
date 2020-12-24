@@ -1,0 +1,18 @@
+h1{
+    text-align: center; font-size: 24px;
+}
+
+*{
+    font-family: 'Lobster', cursive;
+}
+
+div{font-size: 120%;}
+
+a.silka1:link{color: aqua;}
+    a.silka1:visited{color: black;}
+a.silka2:link{color:red;}
+    a.silka2:visited{color: green;}
+a.silka3:link{color: blue;}
+    a.silka3:visited{color: magenta;}
+a.silka4:link{color: blueviolet;}
+    a.silka4:visited{color: pink;}
